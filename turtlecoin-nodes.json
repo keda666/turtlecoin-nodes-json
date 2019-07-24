@@ -190,6 +190,13 @@
       "cache": false
     },
     {
+      "name": "TurtleNode.org (EU)",
+      "url": "eu.turtlenode.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Turtlenode - CHINA",
       "url": "publicnodes.turtlecoinchina.com",
       "port": 11898,
